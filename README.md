@@ -9,7 +9,7 @@ Build an interactive dashboard that displays microorganisms that live on one hun
 
 **Resources**
 
-Data - samples.json
+Data - 
 
 Software - JavaScript
          - Plotly
