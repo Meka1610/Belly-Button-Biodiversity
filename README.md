@@ -1,7 +1,7 @@
 # Belly-Buttons
 
 
-**Overview **
+**Overview**
 
 Build an interactive dashboard that displays microorganisms that live on one hundred human belly buttons. As seen below the visualization indicates their demographic information, their top 10 bacteria found, the frequency of washing ones belly button, and the bacteria cultures per sample.
 
@@ -9,7 +9,7 @@ Build an interactive dashboard that displays microorganisms that live on one hun
 
 **Resources**
 
-Data - 
+Data - samples.json
 
 Software - JavaScript
          - Plotly
